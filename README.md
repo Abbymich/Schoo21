@@ -7,6 +7,7 @@ Hands-on web-service testing
 
 Chapter I
 1.1. Registration form 1.2. Task 1
+
 Chapter II
 2.1. Authorization form 2.2. Task 2
 
