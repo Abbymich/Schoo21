@@ -5,10 +5,10 @@ Hands-on web-service testing
 Создание тест-кейсов при отсутствии бизнес-аналитики и технических требований
 Функциональное тестирование формы регистрации и авторизации веб-сервиса
 
-    Chapter I
-    1.1. Registration form 1.2. Task 1
-    Chapter II
-    2.1. Authorization form 2.2. Task 2
+Chapter I
+1.1. Registration form 1.2. Task 1
+Chapter II
+2.1. Authorization form 2.2. Task 2
 
 Instructions
 
