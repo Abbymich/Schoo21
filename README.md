@@ -1,4 +1,5 @@
 Проект №0 — Registration/Authorization form testing
+
 Hands-on web-service testing
 
 Создание тест-кейсов при отсутствии бизнес-аналитики и технических требований
