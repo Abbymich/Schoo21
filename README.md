@@ -1,17 +1,16 @@
-Проект №0 — Registration/Authorization form testing
+<h1> Проект №0 — Registration/Authorization form testing </h1>
 
-Hands-on web-service testing
+<strong> Hands-on web-service testing </strong>
 
 Создание тест-кейсов при отсутствии бизнес-аналитики и технических требований
 Функциональное тестирование формы регистрации и авторизации веб-сервиса
 
-Chapter I
-1.1. Registration form 1.2. Task 1
-
+<em> Chapter I
+1.1. Registration form 1.2. Task 1 <br>
 Chapter II
-2.1. Authorization form 2.2. Task 2
+2.1. Authorization form 2.2. Task 2 </em><br>
 
-Instructions
+<strong> Instructions</strong>
 
 Все созданные файлы и отчеты загружайте в папку src ветка develop.
 
@@ -23,7 +22,7 @@ Registration form
 
 На сайте СберМаркет https://sbermarket.ru/ есть форма для регистрации/авторизации.
 
-WEB
+<img src=>
 
 Подобная форма есть во всех приложениях и веб-сервисах. Рассмотрим ситуацию, когда нет никакой документации (требований и технического задания) к данной форме. При тестировании опирайтесь на здравый смысл и, конечно, интернет. blush
 
